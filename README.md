@@ -6,8 +6,8 @@ STEPS TO FOLLOW:
 1.After downloading the SOIRRE-FASHION_ECOMMERCE folder make sure to move the public folder into the frontend folder.
 
 2.SOIREE> npm install
-  SOIREE> npm express
-  SOIREE> npm express-async-handler
+  SOIREE> npm install express
+  SOIREE> npm install express-async-handler
   SOIREE> npm install mongoose
   SOIREE> npm install bcryptjs
   SOIREE> npm install jsonwebtoken
@@ -25,13 +25,13 @@ STEPS TO FOLLOW:
   
   IN CASE IT SHOWS MODULE NOT FOUND ERRORS
   
-  SOIREE\frontend>npm axios
-  SOIREE\frontend>npm react-dom
-  SOIREE\frontend>npm redux-thunk
-  SOIREE\frontend>npm redux
-  SOIREE\frontend>npm react-router-dom
-  SOIREE\frontend>npm react-scripts
-  SOIREE\frontend>npm react
+  SOIREE\frontend>npm install axios
+  SOIREE\frontend>npm install react-dom
+  SOIREE\frontend>npm install redux-thunk
+  SOIREE\frontend>npm install redux
+  SOIREE\frontend>npm install react-router-dom
+  SOIREE\frontend>npm install react-scripts
+  SOIREE\frontend>npm install react
   
   SOIREE\frontend>npm start
   
