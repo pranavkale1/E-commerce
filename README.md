@@ -1,4 +1,4 @@
-# SOIREE-FASHION_ECOMMERCE
+ECOMMERCE
 
 Since the node_modules folder is very large and takes up a lot of time to extract, they have not been included in the folder.
 
